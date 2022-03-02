@@ -11,14 +11,20 @@ $Color-error: #d25050;
 
 //--------Fonts------------//
 $Base-font: 'quicksand', sans-serif;
-$Bumber-font: 'robotobold', sans-serif;
+$Number-font: 'robotobold', sans-serif;
 //Font weight
 /*$Big-title-weight:;
 $Small-title-weight:;
 $Big-text-weight:;
 $Small-text-weight:;
 */
-//**--Font size to mobile--**//
+//---------Font size------------//
+$Little-big-font-size: 1.8rem;
+$Medium-font-size: 1.6rem;
+$Small-font-size: 1.4rem;
+
+$Big-border-radius: 1rem;
+$Medium-border-radius: 0.5rem;
 //Titles
 /*$H1-size:;
 $H2-size:;
