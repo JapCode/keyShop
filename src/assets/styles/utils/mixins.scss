@@ -1,0 +1,15 @@
+/*··MIXINS··*/
+//Media query
+@mixin respond-to($width){
+  @media only screen and (min-width:$width){
+    @content; }
+}
+//General
+@mixin Container-box($width) {
+  width: $width;
+  border: none;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+//**Mixins to: mobile**//
+//**Mixins to: desktop**//

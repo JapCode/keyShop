@@ -1,3 +1,4 @@
+/*··MAIN··*/
 @use './utils/' as utils;
 @import '../fonts/fontStyle.css';
 
@@ -8,7 +9,29 @@
 }
 html {
   font-size: 62.5%;
+  font-family: utils.$Base-font;
+  scroll-behavior: smooth;
 }
-h1 {
-  font-family: utils.$base-font-family;
+
+/*··GLOBAL··
+h1{
+font-size: utils.$H1-size;
 }
+h2{
+font-size: utils.$H2-size;
+}
+h3{
+font-size: utils.$H3-size;
+}
+h4{
+font-size: utils.$H4-size;
+}
+p{
+  font-size: utils.$Small-p-size;
+}
+i{
+  font-size: utils.$I-size;
+}
+*/
+// Desktop styles
+//@include index.respond-to(900px){}
