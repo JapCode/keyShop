@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint:fix": "eslint ./src --ext .jsx,.js,.ts,.tsx --quiet --fix --ignore-path ./.gitignore",
+    "lint:format": "prettier  --loglevel warn --write \"./**/*.{js,jsx,ts,tsx,css,md,json}\" ",
+    "lint": "npm run lint:format && npm run lint:fix "
   },
   "dependencies": {
     "react": "^17.0.2",
@@ -13,9 +16,8 @@
     "react-router-dom": "^6.2.1"
   },
   "devDependencies": {
+    "@originjs/vite-plugin-global-style": "^1.0.2",
     "@vitejs/plugin-react": "^1.0.7",
-    "vite": "^2.8.0",
-    "vite-plugin-react-refresh": "^1.0.0",
     "eslint": "^8.6.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.3.0",
@@ -24,6 +26,9 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "prettier": "2.5.1"
+    "prettier": "2.5.1",
+    "sass": "^1.49.9",
+    "vite": "^2.8.0",
+    "vite-plugin-react-refresh": "^1.0.0"
   }
 }

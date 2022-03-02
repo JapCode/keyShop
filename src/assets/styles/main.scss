@@ -1,0 +1,14 @@
+@use './utils/' as utils;
+@import '../fonts/fontStyle.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+h1 {
+  font-family: utils.$base-font-family;
+}

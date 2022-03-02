@@ -5,6 +5,6 @@
   "endOfLine": "lf",
   "useTabs": false,
   "tabWidth": 2,
-  "jsxBracketSameLine": true,
+  "bracketSameLine": true,
   "printWidth": 90
 }
