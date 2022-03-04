@@ -14,35 +14,35 @@
             "name": "black",
             "availability": "in stock",
             "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/pz9ct3hau4861.jpg"
           },
           "red": {
             "id": "c2",
             "name": "red",
             "availability": "out stock",
             "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.imgur.com/qWwUUQv.jpeg"
           },
           "blue": {
             "id": "c3",
             "name": "blue",
             "availability": "out stock",
             "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/189z3gnshxe71.jpg"
           },
-          "silver": {
+          "grey": {
             "id": "c4",
-            "name": "silver",
+            "name": "grey",
             "availability": "in stock",
             "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/53j4qmv9jtn31.jpg"
           },
           "white": {
             "id": "c5",
             "name": "white",
             "availability": "in stock",
             "price": 180.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/js9fs4ccys561.jpg"
           }
         },
         "switch": {
@@ -65,13 +65,13 @@
             "price": 15.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://i.redd.it/pz9ct3hau4861.jpg"
       },
       {
         "id": "2",
         "name": "jaeger gmk",
         "type": "60% Assembled Keyboard",
-        "keyboardCategory": "Tofu65",
+        "keyboardCategory": "Tofu60",
         "description": "jaeger gmk keyboard",
         "date": "2020-02-01",
         "color": {
@@ -80,35 +80,28 @@
             "name": "black",
             "availability": "in stock",
             "price": 150.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/m3z8yaomlm571.jpg"
           },
           "red": {
             "id": "c2",
             "name": "red",
             "availability": "out stock",
             "price": 140.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/wqub8bey4q961.jpg"
           },
           "blue": {
             "id": "c3",
             "name": "blue",
             "availability": "out stock",
             "price": 1400.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "silver": {
-            "id": "c4",
-            "name": "silver",
-            "availability": "in stock",
-            "price": 150.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/x9n65irkjya21.jpg"
           },
           "white": {
             "id": "c5",
             "name": "white",
             "availability": "in stock",
             "price": 120.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/2vg1zzicehx51.jpg"
           }
         },
         "switch": {
@@ -131,7 +124,7 @@
             "price": 15.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://i.redd.it/x9n65irkjya21.jpg"
       },
       {
         "id": "3",
@@ -146,35 +139,7 @@
             "name": "black",
             "availability": "in stock",
             "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "red": {
-            "id": "c2",
-            "name": "red",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "blue": {
-            "id": "c3",
-            "name": "blue",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "silver": {
-            "id": "c4",
-            "name": "silver",
-            "availability": "in stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "white": {
-            "id": "c5",
-            "name": "white",
-            "availability": "in stock",
-            "price": 180.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://massdrop-s3.imgix.net/img_thread/1623278832316.457308198950593194494461-image6.jpeg?auto=format&fm=jpg&fit=min&w=796&dpr=1&chromasub=444&q=70"
           }
         },
         "switch": {
@@ -197,50 +162,22 @@
             "price": 15.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://massdrop-s3.imgix.net/img_thread/1623278832316.457308198950593194494461-image6.jpeg?auto=format&fm=jpg&fit=min&w=796&dpr=1&chromasub=444&q=70"
       },
       {
         "id": "4",
-        "name": "meow gmk",
+        "name": "Mosaic orange gmk",
         "type": "65% Assembled Keyboard",
         "keyboardCategory": "Tofu65",
-        "description": "meow gmk keyboard",
+        "description": "combination of the three colors to create an amazing keyboard",
         "date": "2020-01-20",
         "color": {
-          "black": {
+          "blackWhiteOrange": {
             "id": "c1",
-            "name": "black",
+            "name": "black, white, orange",
             "availability": "in stock",
-            "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "red": {
-            "id": "c2",
-            "name": "red",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "blue": {
-            "id": "c3",
-            "name": "blue",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "silver": {
-            "id": "c4",
-            "name": "silver",
-            "availability": "in stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "white": {
-            "id": "c5",
-            "name": "white",
-            "availability": "in stock",
-            "price": 180.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "price": 350.0,
+            "image": "https://images.unsplash.com/photo-1625130694338-4110ba634e59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
           }
         },
         "switch": {
@@ -263,7 +200,7 @@
             "price": 15.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://images.unsplash.com/photo-1625130694338-4110ba634e59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
       },
       {
         "id": "5",
@@ -273,40 +210,26 @@
         "description": "elden gmk keyboard",
         "date": "2020-01-30",
         "color": {
-          "black": {
+          "purple": {
             "id": "c1",
-            "name": "black",
+            "name": "purple",
             "availability": "in stock",
             "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "red": {
-            "id": "c2",
-            "name": "red",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://64.media.tumblr.com/676c83cbdb254a6f47b69f163914b9cd/8704451cf58fd30b-c9/s1280x1920/adaf0f1a6bcc997f1b9dd50f2f7c81acbfa0d9ac.jpg"
           },
           "blue": {
             "id": "c3",
             "name": "blue",
             "availability": "out stock",
             "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://massdrop-s3.imgix.net/img_thread/1613641877783.927168525274503289280879-IMG20210218133222.jpg?auto=format&fm=jpg&fit=min&w=796&dpr=1&chromasub=444&q=70"
           },
-          "silver": {
+          "black": {
             "id": "c4",
-            "name": "silver",
+            "name": "black",
             "availability": "in stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "white": {
-            "id": "c5",
-            "name": "white",
-            "availability": "in stock",
-            "price": 180.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "price": 220.0,
+            "image": "https://user-images.githubusercontent.com/736191/52534969-be6c8d80-2d8b-11e9-82ac-a2cd09ab96d1.png"
           }
         },
         "switch": {
@@ -335,61 +258,7 @@
             "price": 25.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
-      },
-      {
-        "id": "5",
-        "name": "elden gmk",
-        "type": "42% Assembled Keyboard",
-        "keyboardCategory": "corne",
-        "description": "elden gmk keyboard",
-        "date": "2020-01-30",
-        "color": {
-          "black": {
-            "id": "c1",
-            "name": "black",
-            "availability": "in stock",
-            "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "red": {
-            "id": "c2",
-            "name": "red",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "blue": {
-            "id": "c3",
-            "name": "blue",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "silver": {
-            "id": "c4",
-            "name": "silver",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "purple": {
-            "id": "c5",
-            "name": "purple",
-            "availability": "in stock",
-            "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          }
-        },
-        "switch": {
-          "Rosélios": {
-            "id": "s1",
-            "name": "Rosélios / sakurios linear",
-            "availability": "in stock",
-            "price": 200.0
-          }
-        },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://64.media.tumblr.com/676c83cbdb254a6f47b69f163914b9cd/8704451cf58fd30b-c9/s1280x1920/adaf0f1a6bcc997f1b9dd50f2f7c81acbfa0d9ac.jpg"
       },
       {
         "id": "6",
@@ -399,40 +268,19 @@
         "description": "The Kraken gmk keyboard",
         "date": "2020-01-06",
         "color": {
-          "black": {
+          "blueGrey": {
             "id": "c1",
-            "name": "black",
+            "name": "blue and grey",
             "availability": "in stock",
             "price": 200.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/txebauy8g3p71.jpg"
           },
-          "red": {
-            "id": "c2",
-            "name": "red",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "blue": {
-            "id": "c3",
-            "name": "blue",
-            "availability": "out stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "silver": {
-            "id": "c4",
-            "name": "silver",
+          "blackRed": {
+            "id": "c1",
+            "name": "black and red",
             "availability": "in stock",
-            "price": 190.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
-          },
-          "white": {
-            "id": "c5",
-            "name": "white",
-            "availability": "in stock",
-            "price": 180.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "price": 200.0,
+            "defaultImage": "https://i.redd.it/txebauy8g3p71.jpg"
           }
         },
         "switch": {
@@ -461,7 +309,7 @@
             "price": 25.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://i.redd.it/txebauy8g3p71.jpg"
       },
       {
         "id": "7",
@@ -476,7 +324,7 @@
             "name": "green and black",
             "availability": "in stock",
             "price": 400.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://cdn.shopify.com/s/files/1/1473/3902/products/1_7eac78c2-aa20-4c6c-97f3-a8cd194a667e.jpg?v=1642573725"
           }
         },
         "switch": {
@@ -505,7 +353,7 @@
             "price": 25.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://cdn.shopify.com/s/files/1/1473/3902/products/1_7eac78c2-aa20-4c6c-97f3-a8cd194a667e.jpg?v=1642573725"
       },
       {
         "id": "8",
@@ -515,12 +363,12 @@
         "description": "full rgb keyboard",
         "date": "2020-01-11",
         "color": {
-          "white": {
+          "black": {
             "id": "c5",
-            "name": "white",
+            "name": "black",
             "availability": "in stock",
             "price": 150.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.imgur.com/ctvBHFV.jpeg"
           }
         },
         "switch": {
@@ -543,7 +391,7 @@
             "price": 15.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://i.imgur.com/ctvBHFV.jpeg"
       },
       {
         "id": "9",
@@ -558,7 +406,7 @@
             "name": "brown",
             "availability": "in stock",
             "price": 220.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.redd.it/vuz82rpah4q31.jpg"
           }
         },
         "switch": {
@@ -581,14 +429,14 @@
             "price": 35.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://i.redd.it/vuz82rpah4q31.jpg"
       },
       {
         "id": "10",
         "name": "Hermit purple",
         "type": "40% Assembled Keyboard",
         "KeyboardCategory": "Ortholinear",
-        "description": "for purple lovers",
+        "description": "the perfect contrast for purple lovers",
         "date": "2020-08-11",
         "color": {
           "purple": {
@@ -596,7 +444,7 @@
             "name": "purple",
             "availability": "in stock",
             "price": 220.0,
-            "image": "https://i.imgur.com/q7XZ9Ql.jpg"
+            "image": "https://i.imgur.com/Yvk2A30.jpeg"
           }
         },
         "switch": {
@@ -619,7 +467,7 @@
             "price": 35.0
           }
         },
-        "image": "https://www.phantomgmk.com/wp-content/uploads/2017/08/phantom-gmk-keyboard-1.jpg"
+        "defaultImage": "https://i.imgur.com/Yvk2A30.jpeg"
       }
     ]
   }
