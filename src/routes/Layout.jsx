@@ -1,4 +1,10 @@
+import Header from '../containers/Header';
+
 function Layout(prop) {
-  return <>{prop.children}</>;
+  return (
+    <>
+   <Header/>
+    {prop.children}
+  </>);
 }
 export default Layout;
