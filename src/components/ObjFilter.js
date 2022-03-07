@@ -14,17 +14,17 @@ const ObjFilter = [
     path: '/corne',
     key: 3.2,
   },
-    {
+  {
     name: 'HotSwap',
     path: '/hotswap',
     key: 4.2,
   },
-    {
+  {
     name: 'Assembled',
     path: '/assembled',
     key: 5.2,
   },
-    {
+  {
     name: 'Others',
     path: '/',
     key: 6.2,

@@ -13,7 +13,9 @@ const useSeo = ({ title, description }) => {
       document.title = `${title} | keyShop`;
     }
 
-    return () => (document.title = previousTitle);
+    return () => {
+      document.title = previousTitle;
+    };
   }, [title]);
 
   useEffect(() => {
